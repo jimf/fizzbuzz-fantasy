@@ -1,0 +1,31 @@
+{
+  "name": "fizzbuzz-fantasy",
+  "version": "1.0.0",
+  "description": "A FizzBuzz implementation with functional-style JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimf/fizzbuzz-fantasy.git"
+  },
+  "keywords": [
+    "fizzbuzz",
+    "functional"
+  ],
+  "author": "Jim Fitzpatrick <fitzpatrick.jim@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jimf/fizzbuzz-fantasy/issues"
+  },
+  "homepage": "https://github.com/jimf/fizzbuzz-fantasy#readme",
+  "dependencies": {
+    "pointfree-fantasy": "^0.1.3",
+    "ramda": "^0.19.1",
+    "sanctuary": "^0.8.0"
+  }
+}
